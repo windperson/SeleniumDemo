@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserAutomationLib", "BrowserAutomationLib\BrowserAutomationLib.csproj", "{3894D9F7-E6D3-4835-AF34-D29B5DFE6691}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureDemo", "GestureDemo\GestureDemo.csproj", "{07B3728D-6D1C-48BD-98E7-C7876596C9CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationDemo", "AutomationDemo\AutomationDemo.csproj", "{07B3728D-6D1C-48BD-98E7-C7876596C9CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

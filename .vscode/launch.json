@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/GestureDemo/bin/Debug/netcoreapp3.0/GestureDemo.dll",
+            "program": "${workspaceFolder}/AutomationDemo/bin/Debug/netcoreapp3.0/AutomationDemo.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/GestureDemo",
+            "cwd": "${workspaceFolder}/AutomationDemo",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
             "stopAtEntry": false
